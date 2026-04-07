@@ -1,4 +1,4 @@
-package dev.alexrincon.imagesaturationfilter.ui.theme
+package dev.alexrincon.imagesaturationfilter.core.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
